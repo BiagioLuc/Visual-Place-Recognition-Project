@@ -1,0 +1,46 @@
+Query path:
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/queries/@0381807.40@3946274.62@54@S@035.65324@0139.69433@00390.jpg@@@@@@@@.jpg
+
+Predictions paths:
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0382564.23@3947057.02@54@S@035.66039@0139.70258@7sy6a7OcnZ-_mrA0N_oePw@03@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381614.63@3946943.47@54@S@035.65925@0139.69210@GjtdYqqdLOESQdxYo3649Q@05@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0382124.60@3947098.78@54@S@035.66071@0139.69771@veF3kYynFNY-NfkMcO-e8Q@07@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381805.64@3946274.09@54@S@035.65324@0139.69431@mW4oKHVMbCAD8IbP0ohlsg@01@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381921.17@3946833.01@54@S@035.65829@0139.69551@ChcDbz5fLhxpyPTzpLjmYQ@05@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381923.91@3946827.64@54@S@035.65824@0139.69554@u2uiMHvDicfPnkPNFefU-w@05@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381997.44@3946200.54@54@S@035.65260@0139.69644@CuRdVotN7utu3GLYzetx4g@05@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381787.96@3947410.10@54@S@035.66348@0139.69395@C-O-RAv4K1MR2mxksi5SDg@05@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0382504.89@3946560.14@54@S@035.65590@0139.70199@S3WF8BerhqlItEfXRUI6Lg@07@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0382116.83@3947086.01@54@S@035.66059@0139.69763@9737G3-ZqsjGfWqSusAhEA@01@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381912.06@3946889.82@54@S@035.65880@0139.69540@CzuKf7BSTd0cNIaI_KsvZg@06@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0382072.86@3947129.41@54@S@035.66098@0139.69714@624tbLAkHJOw967byeMfcg@04@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0382113.26@3947076.29@54@S@035.66050@0139.69759@DGzxPCBYKfigHLJVfxTC1w@01@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381562.81@3946342.77@54@S@035.65383@0139.69162@gbATiIYWzPVPmuu3GsKaTQ@05@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0382220.31@3946717.10@54@S@035.65728@0139.69883@fPRCyJpOozBfOnpKr1mj9A@08@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0382235.18@3946321.64@54@S@035.65372@0139.69905@XX2lBVebhM0mw0Ulj6hXIQ@02@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0382381.44@3947474.34@54@S@035.66413@0139.70050@U2wbeAUrAYoUaswvpW-qXA@09@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381979.85@3946137.87@54@S@035.65203@0139.69626@5owiVDuyON4l3GDonQxsKA@08@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0382069.51@3946378.08@54@S@035.65421@0139.69721@kzMpUYQcXY6WwxyFN1nR5A@11@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381975.57@3946135.38@54@S@035.65201@0139.69621@KMXQj2MXiFeAobF3PLJmBQ@08@@@@@@@.jpg
+
+Positives paths:
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381784.41@3946270.93@54@S@035.65321@0139.69408@FeUX0nHezvZlysmy_BVBXA@02@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381784.41@3946270.93@54@S@035.65321@0139.69408@FeUX0nHezvZlysmy_BVBXA@01@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381805.64@3946274.09@54@S@035.65324@0139.69431@mW4oKHVMbCAD8IbP0ohlsg@03@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381784.41@3946270.93@54@S@035.65321@0139.69408@FeUX0nHezvZlysmy_BVBXA@10@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381794.22@3946259.48@54@S@035.65310@0139.69419@5peiCZC82-SGHbmI_dmf8A@02@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381812.46@3946282.65@54@S@035.65332@0139.69439@Fq5PVqo0rc0JaWb0qha2VA@00@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381798.83@3946265.41@54@S@035.65316@0139.69424@5OKlIluLZJNwAKaPEB2j_A@02@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381798.83@3946265.41@54@S@035.65316@0139.69424@5OKlIluLZJNwAKaPEB2j_A@01@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381791.01@3946263.30@54@S@035.65314@0139.69415@GmUxpPd7I-YcasvYJ7WAHg@01@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381800.82@3946251.96@54@S@035.65304@0139.69426@L-NLvGeZ6JHX6JO8Xnf_BA@01@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381800.82@3946251.96@54@S@035.65304@0139.69426@L-NLvGeZ6JHX6JO8Xnf_BA@02@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381805.64@3946274.09@54@S@035.65324@0139.69431@mW4oKHVMbCAD8IbP0ohlsg@00@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381812.46@3946282.65@54@S@035.65332@0139.69439@Fq5PVqo0rc0JaWb0qha2VA@01@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381805.64@3946274.09@54@S@035.65324@0139.69431@mW4oKHVMbCAD8IbP0ohlsg@01@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381805.64@3946274.09@54@S@035.65324@0139.69431@mW4oKHVMbCAD8IbP0ohlsg@02@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381812.46@3946282.65@54@S@035.65332@0139.69439@Fq5PVqo0rc0JaWb0qha2VA@02@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381812.46@3946282.65@54@S@035.65332@0139.69439@Fq5PVqo0rc0JaWb0qha2VA@03@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381812.46@3946282.65@54@S@035.65332@0139.69439@Fq5PVqo0rc0JaWb0qha2VA@06@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381819.18@3946291.32@54@S@035.65339@0139.69446@66MPjnlgKi5Jd_f1qWaEsw@01@@@@@@@.jpg
+/content/Visual-Place-Recognition-Project/data/tokyo_xs/test/database/@0381819.18@3946291.32@54@S@035.65339@0139.69446@66MPjnlgKi5Jd_f1qWaEsw@02@@@@@@@.jpg
