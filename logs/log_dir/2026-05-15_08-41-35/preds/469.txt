@@ -1,0 +1,38 @@
+Query path:
+/content/Visual-Place-Recognition-Project/data/svox/images/test/queries_night/@0619985.21@5734754.27@20141216_190736@.jpg
+
+Predictions paths:
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0620300.32@5735553.16@201206@N3ajkfipXUaZ3wRI6rVkLg@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0620580.65@5735239.63@201206@SN98VS6EmEMfoT4JJLbchQ@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0620017.36@5735290.32@201205@jE6ZS8yziZop9bajgVR1hQ@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0620218.18@5734561.95@201206@zmfh9yEvF6W7BoqopW_5IA@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0619933.69@5734750.57@201207@d0OeEUCXCsmviy5BOEW3bw@B@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0620018.10@5735169.52@201205@9CvdIOW8pSQWBpwu3YF5ew@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0619958.65@5735361.40@201205@-ad7paI5rCNSUYRYkhujoA@B@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0619897.50@5735018.17@201206@26VRPPf3UGpGvgQ16ZaAGQ@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0619870.94@5735110.02@201205@IQJWLih43ButxMOexnAM0Q@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0620289.13@5734649.81@201206@J3SMsP-4UmbZMtpw9TUJvQ@B@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0620591.49@5735239.52@201206@mB5eqI0QqcQFEclPz0d9xg@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0620337.83@5735129.20@201206@xUrvzIdTEIa3swTGrKw1FQ@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0620078.46@5735480.40@201205@z1ewnSsScCkhP7FhV1Rgew@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0620273.49@5734449.73@201206@RVEEbxLoyhADjWocF2Kxww@B@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0620336.05@5735135.12@201206@KmnlTi1W0UYCENHWPOcMTQ@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0620215.93@5734744.67@201207@TcrLKN1qJpnn8KEJgGdI_Q@B@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0619829.40@5735445.67@201205@E-B7Ail38fRaulOh2ih-dQ@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0620023.81@5735292.54@201205@WekvG1au8EYqzVbAZKbwEA@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0620548.26@5734801.42@201206@ZpRMjJsZusQTFbdwb0DCAw@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0620559.16@5734802.85@201206@bH7QrJRlKKeSpF9JBoIQzA@F@.jpg
+
+Positives paths:
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0619999.29@5734764.48@201207@ENzoNjnswDyRu5uzxnd4Ig@B@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0619971.85@5734753.16@201207@_iVfaP3aYklzPp6KyAtJ-Q@B@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0619977.42@5734753.44@201207@fzWPzkUd0zH85FwRpXCMxQ@B@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0619977.42@5734753.44@201207@fzWPzkUd0zH85FwRpXCMxQ@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0619992.57@5734754.99@201207@rLS_uhzQkkAsQayCsAXQpw@B@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0619971.85@5734753.16@201207@_iVfaP3aYklzPp6KyAtJ-Q@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0619992.57@5734754.99@201207@rLS_uhzQkkAsQayCsAXQpw@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0619988.62@5734753.24@201207@KMm3s3NsYKlcOH26yGAHNA@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0619988.62@5734753.24@201207@KMm3s3NsYKlcOH26yGAHNA@B@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0620001.75@5734768.26@201207@R8WbFMEs2ZMAih-tDEirzg@B@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0619999.29@5734764.48@201207@ENzoNjnswDyRu5uzxnd4Ig@F@.jpg
+/content/Visual-Place-Recognition-Project/data/svox/images/test/gallery/@0620001.75@5734768.26@201207@R8WbFMEs2ZMAih-tDEirzg@F@.jpg
