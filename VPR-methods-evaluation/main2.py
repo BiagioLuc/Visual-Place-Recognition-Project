@@ -48,7 +48,7 @@ def main(args):
         logger.debug(f"Saving final activations tensor in {log_dir}")
     if args.save_descriptors:
         logger.info(f"Saving the descriptors in {log_dir}")
-        torch.save( all_descriptors, log_dir / "database_descriptors.torch")
+        torch.save(torch.from_numpy(all_descriptors), log_dir / "database_descriptors.torch")
         
 
 if __name__ == "__main__":
