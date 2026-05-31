@@ -40,7 +40,7 @@ def read_images_paths(dataset_folder):
             )
     else:
         print(f"Finding images within {dataset_folder} using glob()...")
-        images_paths = sorted(glob(f"{dataset_folder}/*/.jpg", recursive=True))
+        images_paths = sorted(glob(f"{dataset_folder}/**/*.jpg", recursive=True))
         if len(images_paths) == 0:
             raise FileNotFoundError(f"Directory {dataset_folder} does not contain any .jpg images")
 
@@ -51,8 +51,8 @@ class TrainDataset(data.Dataset):
     """Dataset class tailored for feature extraction and allocation,
     without geographic coordinates processing or ground truth computation.
     """
-    def _init_(self, dataset_folder, image_size=None):
-        super()._init_()
+    def __init__(self, dataset_folder, image_size=None):
+        super().__init__()
 
         self.dataset_folder = dataset_folder
         self.images_paths = read_images_paths(self.dataset_folder)
@@ -65,14 +65,14 @@ class TrainDataset(data.Dataset):
             transformations.append(transforms.Resize(size=image_size, antialias=True))
         self.transform = transforms.Compose(transformations)
 
-    def _getitem_(self, index):
+    def __getitem__(self, index):
         image_path = self.images_paths[index]
         pil_img = Image.open(image_path).convert("RGB")
         normalized_img = self.transform(pil_img)
         return normalized_img, index
 
-    def _len_(self):
+    def __len__(self):
         return len(self.images_paths)
 
-    def _repr_(self):
+    def __repr__(self):
         return f"< Dataset class - #images: {len(self.images_paths)} >"
