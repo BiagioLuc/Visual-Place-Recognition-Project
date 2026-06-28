@@ -11,6 +11,7 @@ import torchvision
 import torchvision.transforms as transforms
 import torchvision.models as models
 import torch.nn as nn
+import numpy as np
 
 MODELS_INFO = {
     128: (
@@ -95,10 +96,8 @@ class MixVPR(nn.Module):
 ### Implement ResNet-50 here for MixVPR model,
 ### otherwise `self.backbone = ResNet()` will fail
 ### (academic purpose)
-import torch
-import torch.nn as nn
-import torchvision
-import numpy as np
+
+
 
 class ResNet(nn.Module):
     def __init__(self,
@@ -119,7 +118,6 @@ class ResNet(nn.Module):
             weights = None
 
         if 'swsl' in model_name or 'ssl' in model_name:
-            # These are the semi supervised and weakly semi supervised weights from Facebook
             self.model = torch.hub.load(
                 'facebookresearch/semi-supervised-ImageNet1K-models', model_name)
         else:
