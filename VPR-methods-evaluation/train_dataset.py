@@ -48,7 +48,7 @@ def read_images_paths(dataset_folder):
 
 
 class TrainDataset(data.Dataset):
-    """Dataset class tailored for feature extraction and allocation,
+    """Dataset class designed specifically for feature extraction and allocation,
     without geographic coordinates processing or ground truth computation.
     """
     def __init__(self, dataset_folder, image_size=None):
