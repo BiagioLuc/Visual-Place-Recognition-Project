@@ -12,6 +12,8 @@ from tqdm import tqdm
 import vpr_models
 from train_dataset import TrainDataset
 
+#We simplify the file, by removing the retrievial phase and all the variables for the predictions
+#keeping only the extraction of the descriptors
 
 def main(args):
     start_time = datetime.now()
